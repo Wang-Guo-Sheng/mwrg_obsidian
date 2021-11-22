@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "a066e57cabdc1fa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a492a2ca4f7fe790",
+        "type": "leaf",
+        "dimension": 31.037414965986393,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Unit_1/BENE.md",
+            "mode": "preview"
+          }
+        },
+        "group": "80082ea854ebbfe7"
+      },
+      {
+        "id": "288db3b040adeabc",
+        "type": "leaf",
+        "dimension": 68.9625850340136,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Unit_1/BENE.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 2,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": true,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": false,
+              "centerStrength": 1,
+              "repelStrength": 13.4123931623932,
+              "linkStrength": 0.253632478632479,
+              "linkDistance": 30,
+              "scale": 0.7994346181831488,
+              "close": false
+            }
+          }
+        },
+        "group": "80082ea854ebbfe7"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd349702dea8a5ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "24a4cdae8f5e8da9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f03b15e52d04b56f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "60e83e96aba71237",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0364ee7fc33e386",
+    "type": "split",
+    "children": [
+      {
+        "id": "453cd8d88bf67e07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25d24b470329dd56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unit_1/BENE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a492a2ca4f7fe790",
+  "lastOpenFiles": [
+    "Unit_1/BENE.md",
+    "Unit_1/BELL.md",
+    "Unit_1/mwrgUnit_1.md",
+    "Unit_1/AM.md",
+    "Unit_1/GRAV.md",
+    "Unit_1/LEV.md",
+    "Unit_3/mwrgUnit_3.md"
+  ]
+}
