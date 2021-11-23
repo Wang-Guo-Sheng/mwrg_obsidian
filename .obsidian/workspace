@@ -6,12 +6,12 @@
       {
         "id": "a492a2ca4f7fe790",
         "type": "leaf",
-        "dimension": 31.037414965986393,
+        "dimension": 36.564625850340136,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Unit_1/BENE.md",
-            "mode": "preview"
+            "file": "Unit_1/LEV.md",
+            "mode": "source"
           }
         },
         "group": "80082ea854ebbfe7"
@@ -19,21 +19,21 @@
       {
         "id": "288db3b040adeabc",
         "type": "leaf",
-        "dimension": 68.9625850340136,
+        "dimension": 63.435374149659864,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Unit_1/BENE.md",
+            "file": "Unit_1/LEV.md",
             "options": {
               "collapse-filter": true,
-              "search": "",
-              "localJumps": 2,
+              "search": "-file:mwrg",
+              "localJumps": 5,
               "localBacklinks": true,
               "localForelinks": true,
               "localInterlinks": true,
               "showTags": false,
               "showAttachments": false,
-              "hideUnresolved": false,
+              "hideUnresolved": true,
               "collapse-color-groups": true,
               "colorGroups": [],
               "collapse-display": true,
@@ -43,10 +43,10 @@
               "lineSizeMultiplier": 1,
               "collapse-forces": false,
               "centerStrength": 1,
-              "repelStrength": 13.4123931623932,
-              "linkStrength": 0.253632478632479,
+              "repelStrength": 20,
+              "linkStrength": 1,
               "linkDistance": 30,
-              "scale": 0.7994346181831488,
+              "scale": 0.7994346181831523,
               "close": false
             }
           }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit_1/BENE.md",
+                "file": "Unit_1/LEV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,12 +127,15 @@
   },
   "active": "a492a2ca4f7fe790",
   "lastOpenFiles": [
-    "Unit_1/BENE.md",
-    "Unit_1/BELL.md",
-    "Unit_1/mwrgUnit_1.md",
-    "Unit_1/AM.md",
-    "Unit_1/GRAV.md",
     "Unit_1/LEV.md",
-    "Unit_3/mwrgUnit_3.md"
+    "Unit_1/mwrgUnit_1.md",
+    "Unit_1/GRAV.md",
+    "Unit_1/aggravate.md",
+    "Unit_1/gravitate.md",
+    "Unit_1/gravitas.md",
+    "Unit_1/grave.md",
+    "Unit_1/probe.md",
+    "Unit_1/PROB.md",
+    "Unit_1/prove.md"
   ]
 }
