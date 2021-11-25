@@ -1,2 +1,2 @@
-[[MANIA]] [[PSYCH]] [[CEPT]] [[FIN]] [[JECT]] [[TRACT]] [[DUC/DUCT]] [[SEQU]]
+[[MANIA]] [[PSYCH]] [[CEPT]] [[FIN]] [[JECT]] [[TRACT]] [[DUC_DUCT]] [[SEQU]]
 #mwrgUnit
