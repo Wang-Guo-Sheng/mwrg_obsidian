@@ -6,136 +6,82 @@
       {
         "id": "a492a2ca4f7fe790",
         "type": "leaf",
-        "dimension": 36.564625850340136,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Unit_1/LEV.md",
+            "file": "Unit_2/mwrgUnit_2.md",
             "mode": "source"
           }
-        },
-        "group": "80082ea854ebbfe7"
-      },
-      {
-        "id": "288db3b040adeabc",
-        "type": "leaf",
-        "dimension": 63.435374149659864,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Unit_1/LEV.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "-file:mwrg",
-              "localJumps": 5,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": true,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": true,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": false,
-              "centerStrength": 1,
-              "repelStrength": 20,
-              "linkStrength": 1,
-              "linkDistance": 30,
-              "scale": 0.7994346181831523,
-              "close": false
-            }
-          }
-        },
-        "group": "80082ea854ebbfe7"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "dd349702dea8a5ee",
-    "type": "split",
+    "id": "f05e04d8bbb4481f",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "24a4cdae8f5e8da9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f03b15e52d04b56f",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "60e83e96aba71237",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "606a550c690a3ccf",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "5c90dc068dc26034",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "e0364ee7fc33e386",
-    "type": "split",
+    "id": "277159b10f281b89",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "453cd8d88bf67e07",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "25d24b470329dd56",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Unit_1/LEV.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "4deb51959582ba3b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Unit_2/mwrgUnit_2.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "a492a2ca4f7fe790",
   "lastOpenFiles": [
-    "Unit_1/LEV.md",
-    "Unit_1/mwrgUnit_1.md",
-    "Unit_1/GRAV.md",
-    "Unit_1/aggravate.md",
-    "Unit_1/gravitate.md",
-    "Unit_1/gravitas.md",
-    "Unit_1/grave.md",
-    "Unit_1/probe.md",
-    "Unit_1/PROB.md",
-    "Unit_1/prove.md"
+    "Unit_2/mwrgUnit_2.md",
+    "DUC/DUCT.md",
+    "Unit_2/JECT.md",
+    "trajectory.md",
+    "projection.md",
+    "conjecture.md",
+    "interject.md",
+    "Unit_2/FIN.md",
+    "infinitesimal.md",
+    "definitive.md"
   ]
 }
